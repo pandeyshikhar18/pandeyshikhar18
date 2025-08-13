@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js), along with REST APIs, authentication with Firebase, and modern UI design using Tailwind CSS and Material UI.**
 
-- 👨‍💻 All of my projects are available at [https://shikhars-portfolio.vercel.app/](https://shikhars-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shikharportfolio.vercel.app/](https://shikharportfolio.vercel.app/)
 
 - 💬 Ask me about **Building End-to-End ML/DL Projects**
 

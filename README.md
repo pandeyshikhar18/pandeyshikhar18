@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **pandeyshikhar07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C29hTjxvyrLOvH0YwRHqgO6NMx8ErbPY/view?usp=sharing](https://drive.google.com/file/d/1C29hTjxvyrLOvH0YwRHqgO6NMx8ErbPY/view?usp=sharing)
-
 - ⚡ Fun fact **Why did the deep learning model break up with the dataset? It just couldn't generalize anymore. 😢📉**
 
 <h3 align="left">Connect with me:</h3>
